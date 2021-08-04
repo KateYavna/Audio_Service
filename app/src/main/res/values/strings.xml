@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Audio_Service</string>
+    <string name="btstart">Start</string>
+    <string name="btend">End</string>
+</resources>
